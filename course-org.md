@@ -32,12 +32,11 @@ Dates, Lightning Talks, Exams, Grading, etc.
 * [Quelle](https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40217045/NOR40217045.pdf)
 * Bildungs- und Lehraufgabe:<br/>
 Die Sch&uuml;lerinnen und Sch&uuml;ler k&ouml;nnen
-  * verschiedene Softwarearchitekturen beschreiben und f&uuml;r konkrete, in der Praxis auftretende,
-Problemstellungen entsprechende Architekturen erstellen;
-  * plattform&uuml;bergreifende Softwaresysteme erstellen.
+  * [...]
+  * serverbasierte verteilte Systeme entwerfen, implementieren und testen.
 * Lehrstoff:
-  * Softwarearchitekturen, Architekturmuster.
-  * Einsatz aktueller Programmiertechniken, Kommunikation zwischen heterogenen Systemen, Internationalisierung, Optimierung, Systemtests, Deployment.
+  * Evaluierung und Vergleich komplexer Netzwerksysteme, serviceorientierte Architektur.
+  * Enterprise Application Architecture, Server Applications, Middle Ware.
 
 
 <!-- .slide: class="left" -->
@@ -46,27 +45,28 @@ Problemstellungen entsprechende Architekturen erstellen;
 * [Quelle](https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40217045/NOR40217045.pdf)
 * Bildungs- und Lehraufgabe:<br/>
 Die Sch&uuml;lerinnen und Sch&uuml;ler k&ouml;nnen
-  * komplexe Benutzerschnittstellen unter dem Aspekt der Usability entwerfen und implementieren;
-  * komplexe, plattform&uuml;bergreifende Softwaresysteme f&uuml;r den Produktivbetrieb erstellen.
+  * [...]
+  * komplexe verteilte Systeme entwerfen, auf aktuellen Entwicklungsplattformen implementieren, in Betrieb nehmen und strukturiert testen.
 * Lehrstoff:
-  * Visuelle Gestaltung und Dialoggestaltung, Softwareergonomie.
-  * Anwendung aktueller Softwaretechnologien, Erstellung von Frameworks, Softwarequalit&auml;t Performance-Tests.
+  * Sicherheitskonzepte, Sicherheitslösungen.
+  * Komplexe verteilte Systeme, Multi-Tier-Systeme, Cloud Computing.
 
 
+<!-- .slide: class="left" -->
 ## Necessary Software
 
 * We focus on open-source, platform-independent development
 * Use Windows, Linux or Mac
   * Windows is the most convenient option
-* Development Environment
-  * [*Visual Studio Community*](https://visualstudio.microsoft.com/vs/) on Windows (most convenient option)
-* Install at least the following modules:
-  * *.NET Core cross-platform development*
-  * *ASP.NET and web development*
-  * *.NET desktop development*
-  * *Azure development*
-  * *Mobile Development with .NET*
-* Install [*.NET Core 3.0 SDK*](https://dotnet.microsoft.com/download/dotnet-core)
+* For *Xamarin* development
+  * See [*C# Course*](https://rstropek.github.io/htl-csharp/#/1/5)
+* For Cloud Computing:
+  * [*Visual Studio Code*](https://code.visualstudio.com/)
+  * [*Docker Desktop*](https://www.docker.com/products/docker-desktop)
+* Install at least the following plugins to *VSCode*:
+  * [*Docker*](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+  * [*Encode Decode*](https://marketplace.visualstudio.com/items?itemName=mitchdenny.ecdc)
+  * [*REST Client*](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 
 
 <!-- .slide: class="left" -->
@@ -142,4 +142,4 @@ Die Sch&uuml;lerinnen und Sch&uuml;ler k&ouml;nnen
 | 2      | 76
 | 3      | 63
 | 4      | 50
-| 5      | Less than 50 points
+| 5      | Less than 50 perc.
