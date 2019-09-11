@@ -2,23 +2,25 @@
 
 Here are suggestions for [lightning talk](https://en.wikipedia.org/wiki/Lightning_talk) topics:
 
-1. C# and .NET
-    1. What is [*Roslyn*](https://github.com/dotnet/roslyn/wiki/Roslyn%20Overview)?
-    1. Turning [C# *XML Documentation Comments*](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/xmldoc/xml-documentation-comments) into a professional documentation site with [*DocFX*](https://dotnet.github.io/docfx/)
-    1. C# [*Covariance and Contravariance*](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/covariance-contravariance/) described
-    1. Cool things you can do with [*C# Expression Trees*](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/expression-trees/)
-    1. Programming with [*immutable objects*](https://en.wikipedia.org/wiki/Immutable_object) in C# and .NET
-    1. Compiling and debugging the C# compiler yourself
-    1. Cool things you can do with [*dnSpy*](https://github.com/0xd4d/dnSpy)
-    1. Working with Microsoft's [*.NET Core Source Browser*](https://source.dot.net/)
-    1. What is [*.NET Fiddle*](https://dotnetfiddle.net) and where can it help?
-    1. What is the [*LINQPad*](http://www.linqpad.net/) and where can it help?
-    1. What is [*Edge.js*](http://tjanczuk.github.io/edge/#/) and what cool things can C# developers do with it?
-    1. Why is [*Dapper*](https://github.com/StackExchange/Dapper) useful when writing simple database applications in C#?
-    1. Cool things you can do with [*Tuples*](https://docs.microsoft.com/en-us/dotnet/csharp/tuples)
+1. Mobile Development
+    1. What is [*React Native*](https://facebook.github.io/react-native/)?
+    1. What is [*Flutter*](https://flutter.dev/) and why is it so different from other cross-platform mobile development approaches?
+    1. What is [*Ionic*](https://ionicframework.com/)?
+    1. What are [*FIDO2*](https://fidoalliance.org/fido2/) and [*WebAuthn*](https://www.w3.org/TR/webauthn-1/) and why are they important for mobile development?
+    1. How can [*Auth0*](https://auth0.com/docs/quickstart/native) help when developing secure mobile applications?
+    1. How can you benefit from [*Google Firebase*](https://firebase.google.com/) as a mobile developer?
+    1. What is the [*Azure Notification Hub*](https://azure.microsoft.com/en-us/services/notification-hubs/) and why is it relevant for mobile development?
+    1. What is [*Redux*](https://redux.js.org) and why is it relevant for mobile development?
+    1. What is [*MobX*](https://mobx.js.org/) and why is it relevant for mobile development?
+    1. What is [*NativeScript*](https://www.nativescript.org/)?
+    1. What is [*Google's Wear OS*](https://developer.android.com/wear) and how to develop apps for it?
+    1. What is [*Skia*](https://skia.org/) and why is it relevant for mobile development?
+    1. What is [*Swift*](https://developer.apple.com/swift/) and why is it relevant for mobile development?
+    1. What are [*Xamarin Workbooks*](https://docs.microsoft.com/en-us/xamarin/tools/workbooks/)?
+    1. What is [*SQLite*](https://www.sqlite.org/index.html) and why is it relevant for mobile development?
+    1. What is [*Visual Studio App Center*](https://azure.microsoft.com/en-us/services/app-center/)?
 1. Code Quality, Testing
     1. What are [*SonarQube*](https://www.sonarqube.org/) and [*SonarLint*](http://www.sonarlint.org/index.html)?
-    1. What is [*PerfView*](https://github.com/Microsoft/perfview) and how can it help improving application performance?
     1. What is [*BenchmarkDotNet*](https://github.com/dotnet/BenchmarkDotNet) and how can it help improving application performance? 
     1. What is [*Serilog*](https://serilog.net/) and why is it useful for .NET developers?
     1. What can we learn from the [*.NET Foundation Coding Guidelines*](https://github.com/dotnet/corefx/blob/master/Documentation/coding-guidelines/coding-style.md)?
