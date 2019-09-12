@@ -24,6 +24,7 @@ Dates, Lightning Talks, Exams, Grading, etc.
 * [Online Course Calendar](https://github.com/rstropek/htl-mobile-computing-5/blob/master/2019-20/dates.md)
 * [Get Course Material](https://github.com/rstropek/htl-mobile-computing-5/) from GitHub
   * Feel free to contribute
+* [View Course Slides](https://htl-mobile-computing-5.azurewebsites.net/)
 
 
 <!-- .slide: class="left" -->

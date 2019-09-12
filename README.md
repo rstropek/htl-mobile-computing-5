@@ -4,8 +4,8 @@ This repository contains material for the Mobile Computing Course (5th year) at 
 
 ## View Material
 
-* [Open in browser](https://rstropek.github.io/htl-mobile-computing-5)
-* [Get printable version](https://rstropek.github.io/htl-mobile-computing-5?print-pdf)
+* [Open in browser](https://htl-mobile-computing-5.azurewebsites.net/)
+* [Get printable version](https://htl-mobile-computing-5.azurewebsites.net/?print-pdf)
 
 ## Build and Run
 
