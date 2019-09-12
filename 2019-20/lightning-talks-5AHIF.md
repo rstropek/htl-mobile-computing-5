@@ -4,7 +4,7 @@
 | ------ | --------- | ----- |
 | 19.09. |           |       |
 | 03.10. |           |       |
-| 10.10. |           |       |
+| 10.10. |FriedlF    |What is Google's Wear OS and how to develop apps for it? |
 | 24.10. |           |       |
 | 14.11. |           |       |
 | 21.11. |           |       |
