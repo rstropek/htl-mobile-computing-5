@@ -8,7 +8,7 @@
 | 24.10. |           |       |
 | 14.11. |           |       |
 | 21.11. |           |       |
-| 28.11. |           |       |
+| 28.11. | Philipp Brandstetter | FIDO2 and WebAuthn and why are they important for mobile development |
 | 12.12. |           |       |
 | 09.01. |           |       |
 | 16.01. |           |       |
