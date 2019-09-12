@@ -21,10 +21,10 @@
 | 19.12. | *5. Jhg. Projekttage*                          |
 | 26.12. | *Weihnachtsferien*                             |
 | 02.01. | *Weihnachtsferien*                             |
-| 09.01. |                                                |
-| 16.01. |                                                |
+| 09.01. | Christina Lang                                 |
+| 16.01. | Katrin Haslinger                               |
 | 23.01. | *Optional oral exams*                          |
-| 30.01. |                                                |
+| 30.01. | Patrick Wegerer, Gaming on Linux               |
 | 06.02. |                                                |
 | 13.02. |                                                |
 | 20.02. | *Semesterferien*                               |
