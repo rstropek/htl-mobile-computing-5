@@ -8,14 +8,14 @@
 | 24.10. | lukas-tr        | Flutter         |
 | 14.11. | Florian Hitzler | Ionic           |
 | 21.11. | Lukas R.        |                 |
-| 28.11. |                 |                 |
+| 28.11. | Brunner A       |How can you benefit from Google Firebase as a mobile developer?|
 | 12.12. |                 |                 |
 | 09.01. | Christina L.    |                 |
 | 16.01. | Katrin H.       |                 |
 | 30.01. | Patrick W.      | Gaming on Linux |
 | 06.02. |                 |                 |
 | 27.02. |                 |                 |
-| 05.03. |                 |                 |
+| 05.03. |Gusenbauer Max   | Armada by Ernest Cline |
 | 12.03. |                 |                 |
 | 19.03. |                 |                 |
 | 26.03. |                 |                 |
