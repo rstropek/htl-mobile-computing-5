@@ -1,0 +1,15 @@
+node_modules/
+dist
+
+# CSharp
+bin
+obj
+*.suo
+.vs
+*.csproj.user
+launchSettings.json
+.vscode
+packages
+
+Dockerfile
+.dockerignore
