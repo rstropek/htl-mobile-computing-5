@@ -13,7 +13,7 @@
 | 09.01. | Christina L.    |                 |
 | 16.01. | Katrin H.       |                 |
 | 30.01. | Patrick W.      | Gaming on Linux |
-| 06.02. |                 |                 |
+| 06.02. | Florian F       |What is Google's Wear OS and how to develop apps for it? |
 | 27.02. |                 |                 |
 | 05.03. |                 |                 |
 | 12.03. |                 |                 |
