@@ -6,8 +6,8 @@
 | 03.10. |           |       |
 | 10.10. |           |       |
 | 24.10. |           |       |
-| 14.11. |           |       |
-| 21.11. |           |       |
+| 14.11. |Gusenbauer | Armada by Ernest Cline|
+| 21.11. |Brunner A  | How can you benefit from Google Firebase as a mobile developer?|
 | 28.11. |           |       |
 | 12.12. |           |       |
 | 09.01. |           |       |
