@@ -7,7 +7,7 @@
 | 10.10. |           |       |
 | 24.10. |           |       |
 | 14.11. |           |       |
-| 21.11. |           |       |
+| 21.11. | Thomas Brych | What is MQTT and why is it important for programming with small devices (IoT)? |
 | 28.11. |           |       |
 | 12.12. |           |       |
 | 09.01. |           |       |
