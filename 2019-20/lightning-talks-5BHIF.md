@@ -8,7 +8,7 @@
 | 24.10. |renestadler|What is BenchmarkDotNet and how can it help improving application performance? |
 | 14.11. |Michael Hitzker|What is Flutter and why is it so different from other cross-platform mobile development approaches?|
 | 21.11. | Thomas Brych | What is MQTT and why is it important for programming with small devices (IoT)? |
-| 28.11. |           |       |
+| 28.11. | Philipp Brandstetter | FIDO2 and WebAuthn and why are they important for mobile development |
 | 12.12. |           |       |
 | 09.01. |           |       |
 | 16.01. |           |       |
