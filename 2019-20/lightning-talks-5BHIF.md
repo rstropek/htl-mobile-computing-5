@@ -1,11 +1,11 @@
-# Lightning Talks 5AHIF 2019/20
+# Lightning Talks 5BHIF 2019/20
 
 |  Date  | Presenter | Topic |
 | ------ | --------- | ----- |
 | 19.09. |           |       |
 | 03.10. |           |       |
 | 10.10. |           |       |
-| 24.10. |           |       |
+| 24.10. |renestadler|What is BenchmarkDotNet and how can it help improving application performance? |
 | 14.11. |Michael Hitzker|What is Flutter and why is it so different from other cross-platform mobile development approaches?|
 | 21.11. | Thomas Brych | What is MQTT and why is it important for programming with small devices (IoT)? |
 | 28.11. |           |       |
