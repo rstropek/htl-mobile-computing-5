@@ -14,7 +14,7 @@
 | 16.01. | Katrin H.       |                                                          |
 | 30.01. | Patrick W.      | Gaming on Linux                                          |
 | 06.02. | Florian F       | What is Google's Wear OS and how to develop apps for it? |
-| 27.02. |                 |                                                          |
+| 27.02. | Daniel Pallinger | The Code Book (Simon Singh) OR Zero (Mark Elsberg)      |
 | 05.03. |                 |                                                          |
 | 12.03. |                 |                                                          |
 | 19.03. |                 |                                                          |
