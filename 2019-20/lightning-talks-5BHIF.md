@@ -10,7 +10,7 @@
 | 21.11. | Thomas Brych | What is MQTT and why is it important for programming with small devices (IoT)? |
 | 28.11. | Philipp Brandstetter | FIDO2 and WebAuthn and why are they important for mobile development |
 | 12.12. |           |       |
-| 09.01. |           |       |
+| 09.01. |Tim Klecka|What is Google's Wear OS and how to develop apps for it?
 | 16.01. |           |       |
 | 30.01. |           |       |
 | 06.02. | Peter Leitner  | What is Ionic?|
