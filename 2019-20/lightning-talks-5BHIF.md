@@ -13,7 +13,7 @@
 | 09.01. |           |       |
 | 16.01. |           |       |
 | 30.01. |           |       |
-| 06.02. |           |       |
+| 06.02. | Peter Leitner  | What is Ionic?|
 | 27.02. |   Felix Leibetseder        |     What is the .NET Foundation?  |
 | 05.03. |           |       |
 | 12.03. |           |       |
