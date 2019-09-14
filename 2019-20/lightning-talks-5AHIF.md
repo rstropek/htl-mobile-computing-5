@@ -8,7 +8,7 @@
 | 24.10. | lukas-tr        | Flutter         |
 | 14.11. | Florian Hitzler | Ionic           |
 | 21.11. | Lukas R.        |                 |
-| 28.11. |                 |                 |
+| 28.11. | Kathrin Reißner | What is Ionic? |
 | 12.12. |                 |                 |
 | 09.01. | Christina L.    |                 |
 | 16.01. | Katrin H.       |                 |
