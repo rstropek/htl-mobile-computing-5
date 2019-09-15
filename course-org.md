@@ -25,6 +25,7 @@ Dates, Lightning Talks, Exams, Grading, etc.
 * [Get Course Material](https://github.com/rstropek/htl-mobile-computing-5/) from GitHub
   * Feel free to contribute
 * [View Course Slides](https://htl-mobile-computing-5.azurewebsites.net/)
+* [Watch course recordings on YouTube](https://www.youtube.com/playlist?list=PLhGL9p3BWHwtV_hn6H_uZ4vrFE3F7mY8a)
 
 
 <!-- .slide: class="left" -->
