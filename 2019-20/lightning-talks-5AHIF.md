@@ -17,7 +17,7 @@
 | 27.02. | Daniel Pallinger | The Code Book (Simon Singh) OR Zero (Mark Elsberg)              |
 | 05.03. | Alexander B.     | How can you benefit from Google Firebase as a mobile developer? |
 | 12.03. | Max Gusenbauer   | Armada by Ernest Cline                                          |
-| 19.03. |                  |                                                                 |
+| 19.03. | Jakob Aschauer   | What is Visual Studio App Center?                               |
 | 26.03. |                  |                                                                 |
 | 23.04. |                  |                                                                 |
 | 30.04. |                  |                                                                 |
