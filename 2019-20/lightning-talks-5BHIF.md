@@ -3,7 +3,7 @@
 |  Date  |      Presenter       |                                                Topic                                                |
 | ------ | -------------------- | --------------------------------------------------------------------------------------------------- |
 | 19.09. |                      |                                                                                                     |
-| 03.10. |                      |                                                                                                     |
+| 03.10. | Martin Böhm          | How can Auth0 help when developing secure mobile applications?                                      |
 | 10.10. |                      |                                                                                                     |
 | 24.10. | renestadler          | What is BenchmarkDotNet and how can it help improving application performance?                      |
 | 14.11. | Michael Hitzker      | What is Flutter and why is it so different from other cross-platform mobile development approaches? |
