@@ -3,7 +3,7 @@
 |  Date  |      Presenter       |                                                Topic                                                |
 | ------ | -------------------- | --------------------------------------------------------------------------------------------------- |
 | 19.09. |                      |                                                                                                     |
-| 03.10. |                      |                                                                                                     |
+| 03.10. | Martin Böhm          | How can Auth0 help when developing secure mobile applications?                                      |
 | 10.10. |                      |                                                                                                     |
 | 24.10. | renestadler          | What is BenchmarkDotNet and how can it help improving application performance?                      |
 | 14.11. | Michael Hitzker      | What is Flutter and why is it so different from other cross-platform mobile development approaches? |
@@ -11,7 +11,7 @@
 | 28.11. | Philipp Brandstetter | FIDO2 and WebAuthn and why are they important for mobile development                                |
 | 12.12. |                      |                                                                                                     |
 | 09.01. | Tim Klecka           | What is Google's Wear OS and how to develop apps for it?                                            |
-| 16.01. |                      |                                                                                                     |
+| 16.01. | Markus Kurzmann      | What is Swift and why is it relevant for mobile development?                                        |
 | 30.01. |                      |                                                                                                     |
 | 06.02. | Peter Leitner        | What is Ionic?                                                                                      |
 | 27.02. | Felix Leibetseder    | What is the .NET Foundation?                                                                        |
