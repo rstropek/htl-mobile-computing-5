@@ -7,7 +7,7 @@
 | 10.10. | not-matthias     | Obfuscation                                                     |
 | 24.10. | lukas-tr         | Flutter                                                         |
 | 14.11. | Florian Hitzler  | Ionic                                                           |
-| 21.11. | Lukas R.         |                                                                 |
+| 21.11. | Lukas R.         | Google Firebase                                                 |
 | 28.11. | Kathrin Reißner  | What is Ionic?                                                  |
 | 12.12. | AS               | What is Google's Wear OS and how to develop apps for it?        |
 | 09.01. | Christina L.     |                                                                 |
