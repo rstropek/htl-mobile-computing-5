@@ -1,0 +1,60 @@
+GET http://localhost:56598/api/todo-items
+Accept: application/json
+
+###
+GET http://localhost:56598/api/todo-items/0
+Accept: application/json
+
+###
+POST http://localhost:56598/api/todo-items
+Content-Type: application/json
+
+"Watch TV"
+
+###
+PUT http://localhost:56598/api/todo-items/2
+Content-Type: application/json
+
+"Watch Netflix"
+
+###
+DELETE http://localhost:56598/api/todo-items/2
+
+###
+GET http://localhost:56598/api/todo-items-advanced
+Accept: application/json
+
+###
+GET http://localhost:56598/api/todo-items-advanced/0
+Accept: application/json
+
+###
+POST http://localhost:56598/api/todo-items-advanced
+Content-Type: application/json
+
+{
+    "description": "Watch TV",
+    "assignedTo": "Me"
+}
+
+###
+POST http://localhost:56598/api/todo-items-advanced
+Content-Type: application/json
+
+{
+    "description": "x",
+    "assignedTo": "Me"
+}
+
+###
+PUT http://localhost:56598/api/todo-items-advanced/2
+Content-Type: application/json
+
+{
+    "description": "Watch Netfix",
+    "assignedTo": "Me"
+}
+
+###
+DELETE http://localhost:56598/api/todo-items-advanced/2
+
