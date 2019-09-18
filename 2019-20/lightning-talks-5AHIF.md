@@ -4,7 +4,7 @@
 | ------ | ---------------- | --------------------------------------------------------------- |
 | 19.09. |                  |                                                                 |
 | 03.10. | Daniel Hofer     |                                                                 |
-| 10.10. | not-matthias     | Obfuscation                                                     |
+| 10.10. | not-matthias     | Code Protection                                                 |
 | 24.10. | lukas-tr         | Flutter                                                         |
 | 14.11. | Florian Hitzler  | Ionic                                                           |
 | 21.11. | Lukas R.         |                                                                 |
