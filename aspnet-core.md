@@ -136,7 +136,15 @@ Web App and Web API Development with ASP.NET Core
 
 
 <!-- .slide: class="left" -->
-## Middlewares: Web API
+## Web API Demo Project
+
+* Sources [on GitHub](https://github.com/rstropek/htl-mobile-computing-5/tree/master/aspnet-core/0030-web-api)
+* [Demo Requests](https://github.com/rstropek/htl-mobile-computing-5/blob/master/aspnet-core/0030-web-api/app/requests.http)
+  * Use VSCode's *REST Client* for them (you remember this tool from last year, right?)
+
+
+<!-- .slide: class="left" -->
+## Web API: Startup Class
 
 ```
 <!--#include file="aspnet-core/0030-web-api/app/Startup.cs" -->
@@ -144,7 +152,7 @@ Web App and Web API Development with ASP.NET Core
 
 
 <!-- .slide: class="left" -->
-## Middlewares: Web API
+## Web API: Simple *Get All*
 
 ```
 <!--#include file="aspnet-core/0030-web-api/app/ToDoController.cs" -->
@@ -155,7 +163,7 @@ Web App and Web API Development with ASP.NET Core
 
 
 <!-- .slide: class="left" -->
-## Middlewares: Web API
+## Web API: Simple *Get by ID*
 
 ```
 <!--#include file="aspnet-core/0030-web-api/app/ToDoControllerIndex.cs" -->
@@ -166,7 +174,7 @@ Web App and Web API Development with ASP.NET Core
 
 
 <!-- .slide: class="left" -->
-## Middlewares: Web API
+## Web API: Simple *Add*
 
 ```
 <!--#include file="aspnet-core/0030-web-api/app/ToDoControllerAdd.cs" -->
@@ -176,7 +184,7 @@ Web App and Web API Development with ASP.NET Core
 
 
 <!-- .slide: class="left" -->
-## Middlewares: Web API
+## Web API: Simple *Update*
 
 ```
 <!--#include file="aspnet-core/0030-web-api/app/ToDoControllerUpdate.cs" -->
@@ -186,13 +194,75 @@ Web App and Web API Development with ASP.NET Core
 
 
 <!-- .slide: class="left" -->
-## Middlewares: Web API
+## Web API: Simple *Delete*
 
 ```
 <!--#include file="aspnet-core/0030-web-api/app/ToDoControllerDelete.cs" -->
 ```
 
 * Delete todo item with HTTP `DELETE` request
+
+
+<!-- .slide: class="left" -->
+## Web API: Accessing Query Parameters
+
+```
+<!--#include file="aspnet-core/0030-web-api/app/ToDoControllerQueryParameter.cs" -->
+```
+
+* Get sorted todo items with<br/>
+  `GET http://localhost:<port>/api/todo-items/sorted?sortOrder=asc`
+
+
+<!-- .slide: class="left" -->
+## Web API: DTO Classes
+
+```
+<!--#include file="aspnet-core/0030-web-api/app/TodoItem.cs" -->
+```
+
+* *Data Transfer Objects*
+* Note [*Data Annotations*](https://docs.microsoft.com/en-us/dotnet/api/system.componentmodel.dataannotations) like `Required`
+
+
+<!-- .slide: class="left" -->
+## Web API: Using DTO Classes
+
+```
+<!--#include file="aspnet-core/0030-web-api/app/AdvancedToDoControllerAdd.cs" -->
+```
+
+* Try sending invalid data to API
+  * ASP.NET Core handles invalid data automatically
+  * Error format: [RFC 7807](https://tools.ietf.org/html/rfc7807)
+
+
+<!-- .slide: class="left" -->
+## Configuration Settings
+
+![Add settings file](images/add-settings-file.png)
+
+
+<!-- .slide: class="left" -->
+## Configuration Settings
+
+* Configuration file *appsettings.json*
+* Reference nested settings in C# with *:* or sometimes *__*
+  * E.g. `DemoOption:DemoSettingString`
+* Override settings with environment variables
+  * E.g. `set DemoOption__DemoSettingString=10`
+
+```
+<!--#include file="aspnet-core/0030-web-api/app/appsettings.json" -->
+```
+
+
+<!-- .slide: class="left" -->
+## Configuration Settings
+
+```
+<!--#include file="aspnet-core/0030-web-api/app/AdvancedToDoControllerCtor.cs" -->
+```
 
 
 <!-- .slide: class="left" -->

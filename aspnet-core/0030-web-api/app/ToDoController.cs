@@ -8,11 +8,11 @@ namespace app
     [Route("api/todo-items")]
     public partial class ToDoController : ControllerBase
     {
-        private static readonly List<string> items = new List<String> { "Clean my room", "Feed the cat" };
+        private static readonly List<string> items =
+            new List<string> { "Clean my room", "Feed the cat" };
 
         [HttpGet]
-        public IActionResult GetAllItems()
-        {
+        public IActionResult GetAllItems() {
             return Ok(items);
         }
     }
