@@ -11,7 +11,7 @@
 | 28.11. | Kathrin Reißner  | What is Ionic?                                                  |
 | 12.12. | AS               | What is Google's Wear OS and how to develop apps for it?        |
 | 09.01. | Christina L.     |                                                                 |
-| 16.01. | Katrin H.        |                                                                 |
+| 16.01. | Katrin H.        | What is the .NET Foundation?                                    |
 | 30.01. | Patrick W.       | Gaming on Linux                                                 |
 | 06.02. | Florian F        | What is Google's Wear OS and how to develop apps for it?        |
 | 27.02. | Daniel Pallinger | The Code Book (Simon Singh) OR Zero (Mark Elsberg)              |
