@@ -9,7 +9,7 @@
 | 14.11. | Michael Hitzker      | What is Flutter and why is it so different from other cross-platform mobile development approaches? |
 | 21.11. | Thomas Brych         | What is MQTT and why is it important for programming with small devices (IoT)?                      |
 | 28.11. | Philipp Brandstetter | FIDO2 and WebAuthn and why are they important for mobile development                                |
-| 12.12. |                      |                                                                                                     |
+| 12.12. | Adem Srndic          | What are SonarQube and SonarLint?                                                                   |
 | 09.01. | Tim Klecka           | What is Google's Wear OS and how to develop apps for it?                                            |
 | 16.01. | Markus Kurzmann      | What is Swift and why is it relevant for mobile development?                                        |
 | 30.01. |                      |                                                                                                     |
