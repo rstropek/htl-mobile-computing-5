@@ -3,7 +3,7 @@
 |  Date  |    Presenter     |                              Topic                              |
 | ------ | ---------------- | --------------------------------------------------------------- |
 | 19.09. |                  |                                                                 |
-| 03.10. | Daniel Hofer     |                                                                 |
+| 03.10. | Daniel Hofer     | Cool things you can do with Postman                             |
 | 10.10. | not-matthias     | Code Protection                                                 |
 | 24.10. | lukas-tr         | Flutter                                                         |
 | 14.11. | Florian Hitzler  | Ionic                                                           |
