@@ -238,34 +238,6 @@ Web App and Web API Development with ASP.NET Core
 
 
 <!-- .slide: class="left" -->
-## Configuration Settings
-
-![Add settings file](images/add-settings-file.png)
-
-
-<!-- .slide: class="left" -->
-## Configuration Settings
-
-* Configuration file *appsettings.json*
-* Reference nested settings in C# with *:* or sometimes *__*
-  * E.g. `DemoOption:DemoSettingString`
-* Override settings with environment variables
-  * E.g. `set DemoOption__DemoSettingString=10`
-
-```
-<!--#include file="aspnet-core/0030-web-api/app/appsettings.json" -->
-```
-
-
-<!-- .slide: class="left" -->
-## Configuration Settings
-
-```
-<!--#include file="aspnet-core/0030-web-api/app/AdvancedToDoControllerCtor.cs" -->
-```
-
-
-<!-- .slide: class="left" -->
 ## Don't Forget *CORS*!
 
 * Image Source [MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
