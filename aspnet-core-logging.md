@@ -30,6 +30,14 @@ Logging in ASP.NET Core Apps
 
 
 <!-- .slide: class="left" -->
+## Write Exception to Log
+
+```csharp
+<!--#include file="aspnet-core/0050-logging/Controllers/MathControllerDivWithException.cs" -->
+```
+
+
+<!-- .slide: class="left" -->
 ## Exercise: Serilog
 
 * **Careful**: Referenced documentation is for ASP.NET Core 2, you are using version 3. You cannot blindly copy the code!
