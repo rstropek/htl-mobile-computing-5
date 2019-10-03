@@ -18,6 +18,6 @@
 | 05.03. | Alexander B.     | How can you benefit from Google Firebase as a mobile developer? |
 | 12.03. | Max Gusenbauer   | Armada by Ernest Cline                                          |
 | 19.03. | Jakob Aschauer   | What is Visual Studio App Center?                               |
-| 26.03. | Jona Maiss       | MurderBot Diaries                                                                |
-| 23.04. |                  |                                                                 |
+| 26.03. | Jona Maiss       | MurderBot Diaries                                               |
+| 23.04. | Samuel Lange     | SonarQube                                                       |
 | 30.04. |                  |                                                                 |
