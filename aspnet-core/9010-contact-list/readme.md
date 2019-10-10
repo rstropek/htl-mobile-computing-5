@@ -6,9 +6,7 @@ In this exercise, you have to implement RESTful Web API for maintaining a contac
 
 1. Everybody has to do his/her best to come up with a solution.
 
-1. Earn one point for your grade if you add at least two meaningful unit tests for your Web API. Notify me via GitHub issue if you added tests and want the extra points.
-
-1. Earn an additional point for your grade if you manage to host your Web API on the internet. Send me the URL of the Web API using a GitHub issue if you want this extra point.
+1. Earn one point for your grade if you implement all requirements specified in the [*swagger.yaml*](swagger.yaml) file. Notify me via GitHub issue if you succeeded and want the extra points.
 
 ## Specification
 
