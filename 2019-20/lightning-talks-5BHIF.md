@@ -15,7 +15,7 @@
 | 30.01. | Jakob Strasser       | How can you benefit from Google Firebase as a mobile developer?                                                                                                    |
 | 06.02. | Peter Leitner        | What is Ionic?                                                                                      |
 | 27.02. | Felix Leibetseder    | What is the .NET Foundation?                                                                        |
-| 05.03. |                      |                                                                                                     |
+| 05.03. | Thomas Haider        |  What is SQLite and why is it relevant for mobile development?                                      |
 | 12.03. |                      |                                                                                                     |
 | 19.03. |                      |                                                                                                     |
 | 26.03. |                      |                                                                                                     |
