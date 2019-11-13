@@ -17,7 +17,7 @@
 | 06.02. | Florian F        | What is Google's Wear OS and how to develop apps for it?        |
 | 27.02. | Daniel Pallinger | The Code Book (Simon Singh) OR Zero (Mark Elsberg)              |
 | 05.03. | Alexander B.     | How can you benefit from Google Firebase as a mobile developer? |
-| 12.03. | Max Gusenbauer   | Armada by Ernest Cline                                          |
+| 12.03. | Max Gusenbauer   | What is NativeScript?                                           |
 | 19.03. | Jakob Aschauer   | What is Visual Studio App Center?                               |
 | 26.03. | Jona Maiss       | MurderBot Diaries                                               |
 | 23.04. | Samuel Lange     | SonarQube                                                       |
