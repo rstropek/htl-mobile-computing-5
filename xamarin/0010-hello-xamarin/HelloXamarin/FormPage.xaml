@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:local="clr-namespace:HelloXamarin"
+             mc:Ignorable="d"
+             x:Class="HelloXamarin.FormPage">
+    <ContentPage.Resources>
+        <Style TargetType="Entry">
+            <Setter Property="FontSize" Value="Small" />
+        </Style>
+        <Style TargetType="Label">
+            <Setter Property="FontSize" Value="Medium" />
+        </Style>
+        <Style TargetType="Label" x:Key="ResultLabel">
+            <Setter Property="FontSize" Value="Medium" />
+            <Setter Property="TextColor" Value="Red" />
+        </Style>
+        
+    </ContentPage.Resources>
+    
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Back" Clicked="OnBack" />
+    </ContentPage.ToolbarItems>
+
+    <ContentPage.BindingContext>
+        <local:Customer />
+    </ContentPage.BindingContext>
+    
+    <ContentPage.Content>
+        <StackLayout Spacing="20" Padding="15">
+            <Label Text="First Name" />
+            <Entry Text="{Binding Path=FirstName}" />
+            <Label Text="Last Name" />
+            <Editor Text="{Binding Path=LastName}" />
+
+            <Image Source="{Binding Path=IconUrl}" />
+            <Label Style="{StaticResource Key=ResultLabel}" 
+                   Text="{Binding Path=FullName}" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
