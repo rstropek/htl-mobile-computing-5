@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="App1.ColorsToValue"
+             Title="Colors to Value">
+    <ContentPage.Resources>
+        <Style TargetType="Label">
+            <Setter Property="Margin" Value="0, 15, 0, 0"/>
+        </Style>
+        <Style TargetType="BoxView">
+            <Setter Property="WidthRequest" Value="32"/>
+        </Style>
+        <Style TargetType="BoxView" x:Key="BeginEndBox">
+            <Setter Property="WidthRequest" Value="45"/>
+            <Setter Property="Color" Value="Black" />
+        </Style>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        <StackLayout Padding="10">
+            
+            <Label Text="Color 1"/>
+            <Picker ItemsSource="{Binding Path=Colors}"
+                    SelectedItem="{Binding Path=SelectedColor1}"></Picker>
+
+            <Label Text="Color 2"/>
+            <Picker ItemsSource="{Binding Path=Colors}"
+                    SelectedItem="{Binding Path=SelectedColor2}"></Picker>
+
+            <Label Text="Color 3"/>
+            <Picker ItemsSource="{Binding Path=Colors}"
+                    SelectedItem="{Binding Path=SelectedColor3}"></Picker>
+
+            <Button Text="Calculate" Clicked="CalculateResistor"></Button>
+
+            <Label Text="{Binding Path=Result}"></Label>
+            
+            <StackLayout Orientation="Horizontal">
+                <BoxView Style="{StaticResource BeginEndBox}" 
+                            WidthRequest="20"
+                            HeightRequest="20" 
+                            VerticalOptions="Center"/>
+                
+                <BoxView Color="DarkKhaki"
+                            HeightRequest="160"/>
+                
+                <BoxView Color="{Binding Path=SelectedColor1}"
+                            HeightRequest="160"/>
+
+                <BoxView Color="DarkKhaki"
+                            HeightRequest="160"/>
+
+                <BoxView Color="{Binding Path=SelectedColor2}"
+                            HeightRequest="160"/>
+
+                <BoxView Color="DarkKhaki"
+                            HeightRequest="160"/>
+
+                <BoxView Color="{Binding Path=SelectedColor3}"
+                            HeightRequest="160"/>
+
+                <BoxView Color="DarkKhaki"
+                            HeightRequest="160"/>
+
+                <BoxView Style="{StaticResource BeginEndBox}"
+                            WidthRequest="20"
+                            HeightRequest="20" 
+                            VerticalOptions="Center"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

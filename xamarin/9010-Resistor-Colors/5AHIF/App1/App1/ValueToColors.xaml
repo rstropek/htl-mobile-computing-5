@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="App1.ValueToColors"
+             Title="Value to Colors">
+    
+    <ContentPage.Resources>
+        <Style TargetType="Label">
+            <Setter Property="Margin" Value="0, 15, 0, 0" />
+        </Style>
+    </ContentPage.Resources>
+
+    <ContentPage.Content>
+        <StackLayout Padding="15">
+
+            <Label Text="Enter a Number" FontSize="Large" />
+            <Entry Text="{Binding Path=Input}" Keyboard="Numeric" />
+
+            <Button Text="Calculate" Clicked="CalculateColors" />
+            <Label Text="Colors:" FontSize="Large"/>
+            <Label Text="{Binding Path=Result}" FontSize="Large" />
+
+            <StackLayout Orientation="Horizontal">
+                <BoxView Color="Gray"
+                            WidthRequest="20"
+                            HeightRequest="20" 
+                            VerticalOptions="Center"/>
+                
+                <BoxView Color="DarkRed"
+                            WidthRequest="60"
+                            HeightRequest="160"/>
+                
+                <BoxView Color="{Binding Path=SelectedColor1}"
+                            WidthRequest="60"
+                            HeightRequest="160"/>
+            </StackLayout>
+                    
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

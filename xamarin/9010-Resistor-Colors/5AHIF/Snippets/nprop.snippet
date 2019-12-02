@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CodeSnippets  xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>nprop</Title>
+			<Shortcut>nprop</Shortcut>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal>
+					<ID>propname</ID>
+					<Default>Value</Default>
+				</Literal>
+				<Literal>
+					<ID>type</ID>
+					<Default>string</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="CSharp">
+                <![CDATA[private $type$ $propname$Value;
+        public $type$ $propname$
+        {
+            get => $propname$Value;
+            set
+            {
+                $propname$Value = value;
+                OnPropertyChanged(nameof($propname$));
+            }
+        }]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>
