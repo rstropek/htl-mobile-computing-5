@@ -145,6 +145,12 @@ public class Customer : INotifyPropertyChanged
 <!-- .slide: class="left" -->
 ## Data Binding Basics
 
+> Tip: Use [Visual Studio snippet](xamarin\9020-Snippets\nprop.snippet) to make implementing `INotifyPropertyChanged` easier.
+
+
+<!-- .slide: class="left" -->
+## Data Binding Basics
+
 * Always use [`ObservableCollection<T>`](https://docs.microsoft.com/en-us/dotnet/api/system.collections.objectmodel.observablecollection-1) with data binding
   * Avoid using other collection types like `List<T>`
   * Reason: Implements `INotifyCollectionChanged` for data binding
@@ -159,3 +165,12 @@ public ObservableCollection<Customer> Customers { get; } = new ObservableCollect
     <ListView.ItemTemplate>...</ListView.ItemTemplate>
 </ListView>
 ```
+
+
+<!-- .slide: class="left" -->
+## Practice
+
+* [*Hello Xamarin* sample app](xamarin/0010-hello-xamarin)
+* Exercises
+  * [*Resistor Colors* exercise](xamarin/9010-Resistor-Colors)
+  * [*Pokemon Browser* exercise](xamarin/9030-Pokemon)
