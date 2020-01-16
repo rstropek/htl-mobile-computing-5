@@ -19,6 +19,6 @@
 | 05.03. | Alexander B.     | How can you benefit from Google Firebase as a mobile developer? |
 | 12.03. | Max Gusenbauer   | What is NativeScript?                                           |
 | 19.03. | Jakob Aschauer   | What is Visual Studio App Center?                               |
-| 26.03. | Jona Maiss       | MurderBot Diaries                                               |
+| 26.03. | Jona Maiss; Noah Maiss| MurderBot Diaries; Lock in                                               |
 | 23.04. | Samuel Lange     | SonarQube                                                       |
 | 30.04. |                  |                                                                 |
