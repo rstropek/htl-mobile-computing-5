@@ -18,5 +18,7 @@ Build cloud-native apps with [Docker](https://www.docker.com/)
   * [*Docker Basics* Teil 1](https://youtu.be/_fmIEtnsAII)
   * [*Docker Basics* Teil 2](https://youtu.be/Qh7N5XtfZk0)
   * [Docker and .NET](https://youtu.be/U5BhtBiL7FY)
+  * [Azure Container Registry (ACR)](https://youtu.be/k3o0Qm62hhg)
+    * [Sample Code](https://github.com/rstropek/DockerVS2015Intro/tree/master/dockerDemos/17-azure-caas-v2)
 * Exercises
   * [*Car Park* Exercise](docker/9010-container-api)
